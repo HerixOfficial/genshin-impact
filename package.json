@@ -11,5 +11,9 @@
     "genshin"
   ],
   "author": "Herix",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HerixOfficial/genshin-impact.git"
+  }
 }
