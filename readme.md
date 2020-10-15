@@ -28,3 +28,7 @@ This npm package is very new, more characters will be added soon.
 The following characters are added so far:
 * Traveler
 * Amber
+* Kaeya
+* Diluc
+* Venti
+* Lisa
