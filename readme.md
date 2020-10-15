@@ -32,3 +32,17 @@ The following characters are added so far:
 * Diluc
 * Venti
 * Lisa
+
+### Character Properties
+Each character has a value for:
+* Name
+* Vision
+* Weapon
+* Gender
+* Nation
+* Rarity
+* Image
+* Quote
+* Constellation
+* Birthday
+* Description
