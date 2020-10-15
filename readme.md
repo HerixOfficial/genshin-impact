@@ -1,5 +1,5 @@
 # genshin-impact
-**genshin-impact** is a npm package that has info on genshin impact, so far there are only character info added. Only a couple characters are added, but I will add them soon, so stay tuned.
+**genshin-impact** is a npm package that has info on the game, 'Genshin Impact.'
 
 ```js
 let genshin = require("genshin-impact");
@@ -20,6 +20,9 @@ and it will return:
 ```
 Sword
 ```
+
+## Note
+This npm package is very new, more characters will be added soon.
 
 
 The following characters are added so far:
